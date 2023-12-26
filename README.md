@@ -1,5 +1,5 @@
 //Macros Code//
-
+//To see the Macros Code, you need to download the file and go to Section DEVELOPER and touch MACROS//
 //Sheet1 (HOME)//
 
 Sub Reset()
